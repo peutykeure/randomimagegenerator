@@ -17,3 +17,4 @@ Ensuite lancer la console Windows et utiliser la commande make
 * Ouverture d'image PPM
 * Faire une meilleure fonction rand() (Algo. de Monte Carlo ?)
 * Pouvoir choisir la taille de l'image en ligne de commande)
+* La classe Color.h peut être remplacé par sf::Color dans lib. SFML
